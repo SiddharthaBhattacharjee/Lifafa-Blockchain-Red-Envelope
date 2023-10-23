@@ -45,12 +45,14 @@ Additional Gifting Features: Lifafa may include additional features such as virt
 <br>
 
 ## 📷 Screenshots
+<a href="https://lifafa-five.vercel.app/">
 <img src="./img/6.png">
 <img src="./img/1.jpeg">
 <img src="./img/2.jpeg">
 <img src="./img/3.jpeg">
 <img src="./img/4.jpeg">
 <img src="./img/5.gif">
+</a>
 
 ## ✅ How Lifafa Works
 
@@ -75,7 +77,7 @@ Lifafa is licensed under the MPL-2.0 License. See <a href="LICENSE.txt">LICENSE<
 If you have any questions or feedback about the Lifafa, please don't hesitate to contact us - 
 <br>
 
+<a href="https://linktr.ee/"> Siddhartha Bhattacharjee </a> <br>
 <a href="https://linktr.ee/prayasu"> Prayasu Satapathy </a> <br>
 <a href="https://linktr.ee/AlanChristofer"> Alan Christofer </a> <br>
-<a href="https://linktr.ee/"> Siddhartha Bhattacharjee </a> <br>
 <a href="https://linktr.ee/"> Aritra Saha </a> <br>
