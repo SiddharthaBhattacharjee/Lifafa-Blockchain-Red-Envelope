@@ -51,8 +51,8 @@ Additional Gifting Features: Lifafa may include additional features such as virt
 <img src="./img/2.jpeg">
 <img src="./img/3.jpeg">
 <img src="./img/4.jpeg">
-<img src="./img/5.gif">
 </a>
+<img src="./img/5.gif">
 
 ## ✅ How Lifafa Works
 
