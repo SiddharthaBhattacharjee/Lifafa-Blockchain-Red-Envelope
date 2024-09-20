@@ -7,7 +7,8 @@
 
   
 </p>
-Lifafa, your gateway to modern gifting, revolutionizes the age-old tradition of giving with its innovative digital red envelope platform. By seamlessly blending tradition with technology, Lifafa allows users to create, share, and experience the joy of giving in the digital age. With Lifafa, you can personalize your gifts, add an element of surprise, and enhance the entire gifting experience by incorporating various digital assets, all in one secure and user-friendly platform
+Lifafa, your gateway to modern gifting, revolutionizes the age-old tradition of giving with its innovative digital red envelope platform. By seamlessly blending tradition with technology, Lifafa allows users to create, share, and experience the joy of giving in the digital age. With Lifafa, you can personalize your gifts, add an element of surprise, and enhance the entire gifting experience by incorporating various digital assets, all in one secure and user-friendly platform<br>
+<a href="https://www.youtube.com/watch?v=jfKFnHj7qtA"> Youtube Video Demo ⏯️ </a>
 <br>
 
 ## ✨ Features
